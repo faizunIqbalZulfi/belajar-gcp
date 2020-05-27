@@ -1,0 +1,14 @@
+{
+    "psql": {
+        "host":     "",
+        "port":     "",
+        "dbName":   "",
+        "user":     "",
+        "password": "",
+        "schema":   ""
+    },
+    "httpServer": {
+        "port": "",
+        "host": ""
+    }
+}
